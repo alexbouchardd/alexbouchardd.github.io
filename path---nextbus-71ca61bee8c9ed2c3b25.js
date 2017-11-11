@@ -1,0 +1,2 @@
+webpackJsonp([78548045760841],{"./node_modules/json-loader/index.js!./.cache/json/nextbus.json":function(t,e){t.exports={data:{markdownRemark:{html:"<p>WIP</p>",frontmatter:{date:"2016-05-01T00:00:00Z",path:"/nextbus",title:"Nextbus.to",timeframe:"Jun - Jun 2016",images:{first:"nextbus-1",second:"nextbus-2"},gradient:{left:"#73f2b5",right:"#73f2d5"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---nextbus-71ca61bee8c9ed2c3b25.js.map
