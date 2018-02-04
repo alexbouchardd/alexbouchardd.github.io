@@ -1,2 +1,2 @@
-webpackJsonp([0xe74f0e3f3ba5],{311:function(e,t){e.exports={data:{markdownRemark:{html:"<p>WIP</p>",frontmatter:{date:"2016-09-01T12:00:00Z",path:"/busbud-emails",title:"Busbud Emails",timeframe:"June - September 2016",images:{first:"top-destination",second:null},gradient:{left:"#ffce6f",right:"#f7e18d"}}}},pathContext:{}}}});
+webpackJsonp([0xe74f0e3f3ba5],{319:function(e,t){e.exports={data:{markdownRemark:{html:"<p>WIP</p>",frontmatter:{date:"2016-09-01T12:00:00Z",path:"/busbud-emails",title:"Busbud Emails",timeframe:"June - September 2016",images:{first:"top-destination",second:null},gradient:{left:"#ffce6f",right:"#f7e18d"}}}},pathContext:{}}}});
 //# sourceMappingURL=path---busbud-emails-83e35bb645632b43a946.js.map
